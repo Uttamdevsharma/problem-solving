@@ -9,6 +9,6 @@ function isEven (n) {
 
 }
 
-const result = isEven(4)
+const result = isEven(5)
 
 console.log(result)
